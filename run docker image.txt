@@ -1,0 +1,1 @@
+ docker docker build -t "name_of_image" "place_of_dockerfile"
